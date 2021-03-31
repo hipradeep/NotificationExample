@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationExample</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">Chennel descriptions</string>
+</resources>
